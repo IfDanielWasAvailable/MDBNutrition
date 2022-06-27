@@ -1,4 +1,5 @@
-MDB NUTRITION is an API-consuming react project, styled with scss that allows the user to search through countless meals for inspiration.
+MDB(MealDataBase) NUTRITION is an API-consuming  project that allows the user to search through countless meals for inspiration.
+Tech used for this project: React, react hooks, context, axios, react0router-dom, scss.
 
 ![MealDBSearch1](https://user-images.githubusercontent.com/106308876/175346343-395afbe5-e7a0-4081-a420-8ad63d746140.gif)
 
